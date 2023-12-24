@@ -1,3 +1,4 @@
+pub mod smart_pointer;
 pub mod seasons {
   pub enum Season {
     Spring,

@@ -10,3 +10,7 @@ edition = "2021"
 [[bin]]
 name = "app2"
 path = "src/bin/app2.rs"
+
+[[smart_p]]
+name = "app2"
+path = "src/bin/smart_p.rs"
