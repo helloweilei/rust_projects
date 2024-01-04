@@ -1,4 +1,5 @@
 pub mod smart_pointer;
+pub mod linked_list;
 pub mod seasons {
   pub enum Season {
     Spring,
